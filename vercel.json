@@ -4,6 +4,5 @@
     "api/enrich.js": {
       "maxDuration": 60
     }
-  },
-  "outputDirectory": "public"
+  }
 }
