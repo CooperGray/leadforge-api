@@ -1,0 +1,8 @@
+{
+  "name": "leadforge-api",
+  "version": "1.0.0",
+  "description": "LeadForge Apollo enrichment proxy for Vercel",
+  "engines": {
+    "node": "18.x"
+  }
+}
